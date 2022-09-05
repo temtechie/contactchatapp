@@ -1,0 +1,15 @@
+
+
+@media only screen and (max-width: 767px) {
+    .contact-image{
+        display: none;
+    }
+  }
+
+  .thank-you {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+  }
